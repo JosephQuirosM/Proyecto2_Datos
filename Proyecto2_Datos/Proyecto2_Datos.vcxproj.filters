@@ -13,10 +13,53 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Archivos de encabezado\Model">
+      <UniqueIdentifier>{db216b7f-f7e4-488a-9635-2f97b37431b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Model">
+      <UniqueIdentifier>{f11ea5f6-013b-40b3-bc29-6e0726387693}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Application">
+      <UniqueIdentifier>{08358883-544c-4aa6-9bef-8ea18b379829}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Application">
+      <UniqueIdentifier>{0f762cbb-1442-4937-8e8b-c4bef3955ad0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Proyecto2_Datos.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="App.cpp">
+      <Filter>Archivos de origen\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph.cpp">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App.h">
+      <Filter>Archivos de encabezado\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>Archivos de encabezado\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>Archivos de encabezado\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Archivos de encabezado\Model</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Borrador.txt">
+      <Filter>Archivos de encabezado</Filter>
+    </Text>
   </ItemGroup>
 </Project>

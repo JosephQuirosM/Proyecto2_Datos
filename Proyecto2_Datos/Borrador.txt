@@ -1,0 +1,22 @@
+#ifndef ----_H
+#define ----_H
+
+class ---
+{
+private:
+//variables
+
+	
+
+public:
+//Constructor y destructor
+
+
+//Metodos publicos
+
+private:
+//Metodos privados
+
+
+};
+#endif

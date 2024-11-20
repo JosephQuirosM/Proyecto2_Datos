@@ -1,2 +1,10 @@
-﻿  Proyecto2_Datos.cpp
+﻿  App.cpp
+G:\ProyectosC++\Proyecto2_Datos\Proyecto2_Datos\App.cpp(46,28): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+G:\ProyectosC++\Proyecto2_Datos\Proyecto2_Datos\App.cpp(46,25): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+G:\ProyectosC++\Proyecto2_Datos\Proyecto2_Datos\App.cpp(48,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+G:\ProyectosC++\Proyecto2_Datos\Proyecto2_Datos\App.cpp(48,33): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Graph.cpp
+G:\ProyectosC++\Proyecto2_Datos\Proyecto2_Datos\Graph.cpp(23,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Proyecto2_Datos.cpp
+  Generando código...
   Proyecto2_Datos.vcxproj -> G:\ProyectosC++\Proyecto2_Datos\Proyecto2_Datos\x64\Debug\Proyecto2_Datos.exe
